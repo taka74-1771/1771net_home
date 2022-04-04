@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="5RsbuoHPSXt0-KyDSl4o" name="ページ1">
+        <mxGraphModel dx="1375" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2" target="16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="400" y="280"/>
+                            <mxPoint x="200" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="438" y="210" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="440" y="210"/>
+                            <mxPoint x="440" y="320"/>
+                            <mxPoint x="400" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2" target="17">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="440" y="210" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="480" y="320"/>
+                            <mxPoint x="600" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="YAMAHA NVR510&lt;br&gt;メインルータ&lt;br&gt;&amp;nbsp;192.168.71.254&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="130" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="フレッツ光" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.51;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4" target="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="310" y="300" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="280" y="240"/>
+                            <mxPoint x="200" y="240"/>
+                            <mxPoint x="200" y="110"/>
+                            <mxPoint x="400" y="110"/>
+                            <mxPoint x="400" y="75"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="210" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="ONU1&lt;br&gt;小型ONU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="180" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="NAS&lt;br&gt;QNAP TS-453Pro&lt;br&gt;192.168.71.101(Static)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="360" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="自作PC メイン機&lt;br&gt;192.168.71.1(Static)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="360" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="AP&lt;br&gt;ASUS RT-AX55&lt;br&gt;192.168.71.3(DHCP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="360" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="LAN2&lt;br&gt;1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="180" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="LAN1&lt;br&gt;1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="180" width="50" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
